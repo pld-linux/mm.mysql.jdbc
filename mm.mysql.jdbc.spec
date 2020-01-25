@@ -6,7 +6,6 @@
 %if "%{java_version}" >= "1.4"
 %define	with_binary 1
 %endif
-%include	/usr/lib/rpm/macros.java
 Summary:	MM.MySQL is A Type IV JDBC driver for MySQL
 Name:		mm.mysql.jdbc
 Version:	1.2c
